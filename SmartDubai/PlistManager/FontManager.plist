@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fontDefault</key>
+	<string>AdobeArabic-Regular</string>
+	<key>fontEnglishRegular</key>
+	<string>HelveticaNeue</string>
+	<key>fontEnglishMedium</key>
+	<string>HelveticaNeue-Medium</string>
+	<key>fontEnglishBold</key>
+	<string>HelveticaNeue-Bold</string>
+	<key>fontBoldItalic</key>
+	<string>Helvetica Bold</string>
+	<key>fontItalic</key>
+	<string>AdobeArabic-Italic</string>
+	<key>fontBold</key>
+	<string>AdobeArabic-Bold</string>
+	<key>minimumFontSize</key>
+	<integer>18</integer>
+	<key>sizeXSmall</key>
+	<integer>22</integer>
+	<key>sizeMsmall</key>
+	<integer>25</integer>
+	<key>sizeSmall</key>
+	<integer>28</integer>
+	<key>sizeMedium</key>
+	<integer>35</integer>
+	<key>sizeLarge</key>
+	<integer>42</integer>
+	<key>sizeXLarge</key>
+	<integer>50</integer>
+	<key>textSizeHeadingLarge</key>
+	<integer>29</integer>
+	<key>textSizeHeadingMedium</key>
+	<integer>24</integer>
+	<key>textSizeNormal</key>
+	<integer>20</integer>
+	<key>sizeFilterHeader</key>
+	<integer>30</integer>
+	<key>webViewFontSize</key>
+	<integer>30</integer>
+	<key>sizeSmall2</key>
+	<integer>13</integer>
+</dict>
+</plist>

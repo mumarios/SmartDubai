@@ -1,0 +1,30 @@
+{
+  "name": "TrafficBase",
+  "version": "0.5.12",
+  "summary": "Base framework for iOS projects",
+  "description": "This is the base project that contains helper methods and functionality to speed up iOS development",
+  "homepage": "https://bitbucket.org/mnomansd/trafficbase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Traffic Digital": "wewanttraffic.com"
+  },
+  "source": {
+    "git": "https://mnomansd@bitbucket.org/mnomansd/trafficbase.git",
+    "tag": "0.5.12"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TrafficBase/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SwiftyJSON": [
+
+    ]
+  }
+}

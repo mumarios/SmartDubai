@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.7.2)
+  - IQKeyboardManagerSwift (5.0.0)
+  - Kingfisher (4.8.0)
+  - SwiftyJSON (4.1.0)
+  - TrafficBase (0.5.12):
+    - Alamofire
+    - SwiftyJSON
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (= 5.0.0)
+  - Kingfisher
+  - TrafficBase (from `https://github.com/mumarios/BaseProject.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  TrafficBase:
+    :git: https://github.com/mumarios/BaseProject.git
+
+CHECKOUT OPTIONS:
+  TrafficBase:
+    :commit: 9a670300ec91572c12e2d9b9692b1294daeb8247
+    :git: https://github.com/mumarios/BaseProject.git
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  TrafficBase: d1208a693a59c25fe5f7122d1be6ad541744c381
+
+PODFILE CHECKSUM: 6a96aaa6cb9a158329cba1a1a2a330da703225e9
+
+COCOAPODS: 1.5.3

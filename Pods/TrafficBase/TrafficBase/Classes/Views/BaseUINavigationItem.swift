@@ -1,0 +1,32 @@
+//
+//  BaseUINavigationItem.swift
+//  TrafficFramework
+//
+//  Created by Faraz Hussain Siddiqui on 8/16/17.
+//  Copyright © 2017 Faraz Hussain Siddiqui. All rights reserved.
+//
+
+import UIKit
+
+open class BaseUINavigationItem: UINavigationItem {
+    
+    public override init(title: String) {
+        super.init(title: title);
+    }
+    
+    required public init?(coder aDecoder: NSCoder) {
+        super.init(coder: aDecoder);
+    }
+    
+    open override func awakeFromNib() {
+        super.awakeFromNib();
+        
+        self.updateView();
+    }
+    
+    
+    func updateView() {
+     
+    }
+
+}
